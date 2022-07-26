@@ -1,0 +1,8 @@
+Get two bits
+&:a &:b
+Add them
+((;a?)?(;b?):c)?(;a?;b):s
+Print the result
+;c- ;s-
+End the line
+/
